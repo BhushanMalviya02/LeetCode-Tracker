@@ -1,0 +1,5 @@
+two sum ,medium 
+two sum 2,hard 
+kadanes,easy 
+rain water,medium 
+reverse list,easy 

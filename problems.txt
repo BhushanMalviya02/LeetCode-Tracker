@@ -1,5 +1,74 @@
-two sum ,medium 
-two sum 2,hard 
-kadanes,easy 
-rain water,medium 
-reverse list,easy 
+Two Sum,Easy
+Remove Duplicates from Sorted Array,Easy
+Remove Duplicates from Sorted Array II,Medium
+Squares of a Sorted Array,Easy
+Remove Element,Easy
+Move Zeroes,Easy
+Intersection of Two Arrays,Easy
+Container With Most Water,Medium
+Trapping Rain Water,Hard
+3Sum,Medium
+Rotate Array,Medium
+3Sum Closest,Medium
+Sort Colors,Medium
+4Sum,Medium
+Sort Array By Parity,Easy
+Sort Array By Parity II,Easy
+Intersection of Two Arrays II,Easy
+Fruit Into Baskets,Medium
+Longest Substring Without Repeating Characters,Medium
+Longest Repeating Character Replacement,Medium
+Max Consecutive Ones III,Medium
+Minimum Size Subarray Sum,Medium
+Linked List Cycle,Easy
+Linked List Cycle II,Medium
+Middle of the Linked List,Easy
+Find the Degree of Each Vertex,Easy
+Find the Duplicate Number,Medium
+Happy Number,Easy
+Delete Node in a Linked List,Medium
+Maximum Subarray,Medium
+Maximum Product Subarray,Medium
+Maximum Subarray Sum with One Deletion,Medium
+Maximum Absolute Sum of Any Subarray,Medium
+Maximum Sum Circular Subarray,Medium
+Find Pivot Index,Easy
+Find the Middle Index in Array,Easy
+Minimize Hamming Distance After Swap Operations,Medium
+Subarray Sums Divisible by K,Medium
+Merge Intervals,Medium
+Insert Interval,Medium
+Valid Elements in an Array,Easy
+Sort Vowels by Frequency,Medium
+Minimum Window Substring,Hard
+Interval List Intersections,Medium
+Remove All Adjacent Duplicates In String,Easy
+Valid Parentheses,Easy
+Clear Digits,Easy
+Baseball Game,Easy
+Earliest Finish Time for Land and Water Rides I,Easy
+Total Waviness of Numbers in Range I,Medium
+Minimum Cost of Buying Candies With Discount,Easy
+Destroying Asteroids,Medium
+Minimum Element After Replacement With Digit Sum,Easy
+Count the Number of Special Characters I,Easy
+Count the Number of Special Characters II,Medium
+Search in Rotated Sorted Array,Medium
+Check if Array Is Sorted and Rotated,Easy
+Minimum Common Value,Easy
+Number of 1 Bits,Easy
+Minimum Swaps to Move Zeros to End,Easy
+Left and Right Sum Differences,Easy
+Exactly One Consecutive Set Bits Pair,Easy
+Sum of Compatible Numbers in Range I,Easy
+Subarray Sum Equals K,Medium
+Continuous Subarray Sum,Medium
+Running Sum of 1d Array,Easy
+Find the Highest Altitude,Easy
+Contiguous Array,Medium
+Binary Subarrays With Sum,Medium
+Partition Array According to Given Pivot,Medium
+Maximum Total Subarray Value I,Medium
+N-Repeated Element in Size 2N Array,Easy
+Minimum Difference Between Highest and Lowest of K Scores,Easy
+Find Smallest Letter Greater Than Target,Easy

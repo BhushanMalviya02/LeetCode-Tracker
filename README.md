@@ -2,7 +2,7 @@
 
   A simple Command Line Interface (CLI) tool built with Python to track the progress of solving Data Structures and Algorithms (DSA) problems.
 
-#Description
+# Description
 
   While preparing for coding interviews, I realized the need for a lightweight tool to log the problems I solve and keep track of the distribution of difficulties
   (Easy, Medium, Hard) without relying on external spreadsheets. This project was built to solve that specific problem and to practice the fundamentals of Python.
